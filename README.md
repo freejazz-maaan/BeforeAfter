@@ -14,3 +14,5 @@ Retouching studios can use this to easily generate overview documents to send to
 
 Before/After can make GIFs, or utilize a popular jquery library to create a JS faux-gif. 
 
+
+Before/After is currently designed for limited use. If you are interested in using Before/After - please contact me and I can help make changes to make Before/After more general and useable. 
